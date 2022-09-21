@@ -1,0 +1,6 @@
+Basta colocar esses dois arquivos na pasta "OTClientV8\Krovera_Zeus\bot\nome_do_seu_bot\targetbot" e substituir o arquivos
+
+Entre o "Chase" e o "Keep distance", ira aparecer uma opção "Prioritize more life", quando estiver verde, 
+ira dar taget na criatura com mais vida (a box é morre mais rapido)
+
+Dica: desligue ao fazer boss para não ficar preso
